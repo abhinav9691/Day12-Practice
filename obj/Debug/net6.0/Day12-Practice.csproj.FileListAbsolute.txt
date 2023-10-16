@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Day12-Practice\Day12-Practice\bin\Debug\net6.0\Day12-Practice.exe
+C:\Users\dell\source\repos\Day12-Practice\Day12-Practice\bin\Debug\net6.0\Day12-Practice.deps.json
+C:\Users\dell\source\repos\Day12-Practice\Day12-Practice\bin\Debug\net6.0\Day12-Practice.runtimeconfig.json
+C:\Users\dell\source\repos\Day12-Practice\Day12-Practice\bin\Debug\net6.0\Day12-Practice.dll
+C:\Users\dell\source\repos\Day12-Practice\Day12-Practice\bin\Debug\net6.0\Day12-Practice.pdb
+C:\Users\dell\source\repos\Day12-Practice\Day12-Practice\obj\Debug\net6.0\Day12-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Day12-Practice\Day12-Practice\obj\Debug\net6.0\Day12-Practice.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Day12-Practice\Day12-Practice\obj\Debug\net6.0\Day12-Practice.AssemblyInfo.cs
+C:\Users\dell\source\repos\Day12-Practice\Day12-Practice\obj\Debug\net6.0\Day12-Practice.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Day12-Practice\Day12-Practice\obj\Debug\net6.0\Day12-Practice.dll
+C:\Users\dell\source\repos\Day12-Practice\Day12-Practice\obj\Debug\net6.0\refint\Day12-Practice.dll
+C:\Users\dell\source\repos\Day12-Practice\Day12-Practice\obj\Debug\net6.0\Day12-Practice.pdb
+C:\Users\dell\source\repos\Day12-Practice\Day12-Practice\obj\Debug\net6.0\Day12-Practice.genruntimeconfig.cache
+C:\Users\dell\source\repos\Day12-Practice\Day12-Practice\obj\Debug\net6.0\ref\Day12-Practice.dll
